@@ -8,9 +8,7 @@
 The **Smart Fish Disease Detection & Identification System** is a Deep Learning-based diagnostic tool designed for the aquaculture industry. It bridges the gap between expert knowledge and daily fish care by leveraging advanced Convolutional Neural Network (CNN) architectures to automate the identification of fish diseases from imagery. The system classifies diseases into four major categories: Bacterial, Viral, Fungal, and Parasitic.
 
 **Developed by:** Rochelle D’Souza & Abhishek Deshmukh  
-**Under the Guidance of:** Ms. Preeti Khorjuvenkar  
-**Academic Institution:** Goa Business School, Goa University  
-**Course:** Fundamentals of Artificial Intelligence (CSA 5013)
+
 
 ---
 
@@ -65,7 +63,7 @@ A professional, minimalist frontend presents a grid layout displaying comparativ
 
 <div align="center">
   <p>
-    Made with ❤️ by <b>Rochelle D’Souza</b> & <b>Abhishek Deshmukh</b>
+    Made with curosity by <b>Rochelle D’Souza</b> & <b>Abhishek Deshmukh</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
